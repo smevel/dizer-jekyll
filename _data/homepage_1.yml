@@ -13,27 +13,28 @@ hero_area:
 ########################### Service ##############################
 services:
 - title : "Plusieurs modes de visualisation"
-  icon : "ti-ruler-pencil"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  icon : "ti-bar-chart"
+  content : "Cartographie - Chiffres-clés - Datavisualisation - Contenu éditorial (Photographies, textes, vidéos, etc)"
 
 - title : "Simple d’utilisation et intuitif"
-  icon : "ti-announcement"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  icon : "ti-user"
+  content : "Donnez un maximum d’autonomie à vos utilisateurs spécialistes ou grand public"
 
 - title : "Consommer des données"
-  icon : "ti-palette"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
-- title : "Plusieurs modes de visualisation"
-  icon : "ti-ruler-pencil"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  icon : "ti-layers-alt"
+  content : "Infrastructures de données spatiales (IDS) - Cadastre - IGN - Plateformes Open Data"
+  
+- title : "Interopérable au travers de standards et API"
+  icon : "ti-align-justify"
+  content : "OGC - Geoserver - Base de données - GeoNetwork"
 
-- title : "Simple d’utilisation et intuitif"
-  icon : "ti-announcement"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+- title : "Conçu sur des technologies libres"
+  icon : "ti-unlock"
+  content : "Bibliothèques Javascript (OpenLayers 5, Chart.js - Proj4) Framework Bootstrap"
 
-- title : "Consommer des données"
-  icon : "ti-palette"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."  
+- title : "Un visualisateur à la carte"
+  icon : "ti-map"
+  content : "Installation simple et rapide Paramétrage avancé Interface personnalisable Déclinable en applications métiers."  
 
 
 ########################### Testimonial ###########################

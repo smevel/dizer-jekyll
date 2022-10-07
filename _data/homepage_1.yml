@@ -12,17 +12,28 @@ hero_area:
 
 ########################### Service ##############################
 services:
-- title : "Brand Design"
+- title : "Plusieurs modes de visualisation"
   icon : "ti-ruler-pencil"
   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
 
-- title : "Seo & Marketing"
+- title : "Simple d’utilisation et intuitif"
   icon : "ti-announcement"
   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
 
-- title : "Creative Design"
+- title : "Consommer des données"
   icon : "ti-palette"
   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+- title : "Plusieurs modes de visualisation"
+  icon : "ti-ruler-pencil"
+  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+
+- title : "Simple d’utilisation et intuitif"
+  icon : "ti-announcement"
+  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+
+- title : "Consommer des données"
+  icon : "ti-palette"
+  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."  
 
 
 ########################### Testimonial ###########################

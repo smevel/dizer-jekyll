@@ -29,21 +29,17 @@ cta:
 
 ################## Social site ###############
 social:
-  - name: facebook
-    icon: "ti-facebook"
-    link: "#"
+  - name: github
+    icon: "ti-github"
+    link: "https://github.com/mviewer/"
 
   - name: twitter
     icon: "ti-twitter-alt"
-    link: "#"
+    link: "https://twitter.com/MviewerPsc"
 
-  - name: linkedin
+  - name: matrix
     icon: "ti-linkedin"
-    link: "#"
-
-  - name: pinterest
-    icon: "ti-pinterest"
-    link: "#"
+    link: "https://matrix.to/#/#mviewer:matrix.org"
 
 # Build settings
 permalink: "/:title"

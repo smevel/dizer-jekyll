@@ -38,7 +38,7 @@ social:
     link: "https://twitter.com/MviewerPsc"
 
   - name: matrix
-    icon: "ti-linkedin"
+    icon: "ti-comments"
     link: "https://matrix.to/#/#mviewer:matrix.org"
 
 # Build settings

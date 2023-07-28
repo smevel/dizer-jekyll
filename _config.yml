@@ -7,21 +7,10 @@ description: >- # this means to ignore newlines
   mviewer, un visualiseur à votre image
 logo: "/assets/images/logo.png"
 logo_icon: "/assets/images/logo-b.png"
-# contact form action
-contact_form_action: "#" # works with https://fomrspree.io
-footer_content: "Lorem ipsum dolor amet consectetur adipielit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam."
-copyright: "mviewer &copy; 2022"
+footer_content: "Mviewer est un visualiseur cartographique permettant de créer des applications simples, modulaires et ergonomiques. Développé par une communauté de développeurs et d’utilisateurs, le code source est librement réutilisable."
+copyright: "mviewer &copy; 2023"
 # page header default image
 cover_image: "/assets/images/bg/about-bg.jpg"
-
-############### Call to Action ###############
-cta:
-  enable: true
-  title: "dizer give the smart solution for your business"
-  bg_image: "/assets/images/bg/cta-bg-2.png"
-  button:
-    label: "get a quote"
-    link: "contact"
 
 ################## Social site ###############
 social:
